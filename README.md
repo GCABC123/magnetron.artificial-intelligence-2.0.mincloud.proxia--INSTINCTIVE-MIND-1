@@ -34,6 +34,8 @@ This is a Google Colab/Jupyter Notebook for (one possible scheme in) developing 
 (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be
 developing a PROXIA for INSTINCTIVE MIND OBJECT DETECTION A ( for eye cameras).
 
+So for example if the ROBOT detects a cup with the OBJECT DETECTION on the INSTINCTIVE MIND PROXIA via eye camera/on the internet it can imagine a cup in some typical or unusual scenarios (On ASTRAL PROXIA) to better understand what it is and how humans see it.
+
 Prerequisite reading:
 
 - ARTIFICIAL INTELLIGENCE PRIMER ™: https://www.facebook.com/artificialintelligenceprimer
