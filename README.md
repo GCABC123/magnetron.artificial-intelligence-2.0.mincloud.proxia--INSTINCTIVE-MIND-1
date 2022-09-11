@@ -56,6 +56,6 @@ FIND STICKERS HERE: https://bit.ly/3B8D3lE
 You must display the included stickers/signs (so that it is clearly visible) if you are working with MAGNETRON ™ TECHNOLOGY for the purposes of determining whether you want to purchase a technology license or not. This includes but is not limited to public technology displays, trade shows, technology expos, media appearances, Investor events, Computers (exterior), MINDCLOUD STORAGE (e.g server room doors, render farm room doors) etc.
 
 
-
+NOTE: SEE 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝟮.𝟬 ™ DOCUMENTATION FOR INFORMATION ABOUT THE MAIN OBJECT DETECTION PROXIA (ON INSTINCTIVE MIND MINDCLOUD).
 
 
