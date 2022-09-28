@@ -38,6 +38,8 @@ REQUIREMENTS:
 
 [*] DEPENDENCIES: INCLUDED
 
+🌐 NOTE: THIS NOTEBOOK GUIDES YOU THROUGH OBJECT DETECTION USING YOLOv3. CLICK HERE TO DOWNLOAD YOLOv7: https://github.com/GCABC123/magnetron-yolov7
+
 
 =============================================================
 
